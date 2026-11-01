@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=640&lines=Hi%2C+I%27m+Xiao+Ze+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+%26+AI+Engineering;Open+to+internships" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=720&lines=Hi%2C+I%27m+Xiao+Ze+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+%26+AI+Engineering;Building+tools+for+DeepSeek+Harness" alt="typing" />
 
 **软件工程大三 · 武汉 · 求职中（全栈 / 后端 / AI 工程）**
 
@@ -11,14 +11,28 @@
 
 ---
 
+### 🚀 最近在做
+
+- **[dsh-balance-plain](https://github.com/zeenhuang9-boop/dsh-balance-plain)** —— DeepSeek Harness（DSH）侧栏余额插件：余额 / 今日已用 / 峰谷倒计时 / 每轮消耗 / 余额预警，一行纯文本嵌进侧栏 footer，无弹窗、无音效、整层不可点击。正在提交到 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 插件列表。
+- **[lnstinct-blog](https://github.com/zeenhuang9-boop/lnstinct-blog)** —— 已上线的个人博客（[lnstinct.cn](https://www.lnstinct.cn/)）：手机写作后台 / 富文本编辑 / 图片上传 / 单测 + E2E。
+- **[connector_project](https://github.com/zeenhuang9-boop/connector_project)** —— 本地多 AI 通信中枢：让 Claude / Gemini / Codex 互相对话，消息全程本机路由。
+
 ### 🛠 技术栈
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,java,spring,python,mysql,supabase,docker,git,linux&theme=dark" height="46" alt="tech stack" />
 
-### 🚀 作品
+### 📦 作品
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>📊 dsh-balance-plain</h3>
+      <p>DSH 侧栏余额读数插件<br/>
+      JavaScript · 纯文本 · 无交互<br/>
+      余额 / 今日已用 / 峰谷倒计时 / 每轮消耗 / 余额预警</p>
+      <a href="https://github.com/zeenhuang9-boop/dsh-balance-plain"><b>📦 源码</b></a>
+      <p><code>dsh plugin --profile web add https://github.com/zeenhuang9-boop/dsh-balance-plain</code></p>
+    </td>
     <td width="50%" valign="top">
       <h3>📝 lnstinct-blog</h3>
       <p>已上线的个人博客<br/>
@@ -27,6 +41,8 @@
       <a href="https://www.lnstinct.cn/"><b>🌐 在线访问</b></a> ·
       <a href="https://github.com/zeenhuang9-boop/lnstinct-blog"><b>源码</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 connector_project</h3>
       <p>本地多 AI 通信中枢<br/>
@@ -34,18 +50,29 @@
       直连 / 广播 / 链式 / 轮询 / 主持五种编排</p>
       <a href="https://github.com/zeenhuang9-boop/connector_project"><b>📦 源码</b></a>
     </td>
+    <td width="50%" valign="top">
+      <h3>✅ todo</h3>
+      <p>个人任务规划器<br/>
+      JavaScript<br/>
+      用来跟踪学业准备进度</p>
+      <a href="https://github.com/zeenhuang9-boop/todo"><b>📦 源码</b></a>
+    </td>
   </tr>
 </table>
 
-### 📌 现在
+### 🧭 现在
 
 - 在学 **Java / Spring Boot**，目标是能独立写后端
+- 在给 **DSH** 写小插件：侧栏读数、插件列表投稿
 - 正在找 **实习 / 校招**，随时可面试
-- 关注 **AI Agent 工程化**：怎么让多个模型协作还不失控
 
 ### 💡 我怎么干活
 
 > 用 AI 提速，但交付前逐条自己审：类型检查、测试、线上实际验收都跑一遍。
+
+### 🔗 更多
+
+[todo](https://github.com/zeenhuang9-boop/todo) · [focus-trainer](https://github.com/zeenhuang9-boop/focus-trainer) · [全部仓库](https://github.com/zeenhuang9-boop?tab=repositories)
 
 ---
 
